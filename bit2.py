@@ -7,4 +7,4 @@ def numberOfBits(n):
 
     return count
 number = int(input('enter your nuumber'))
-print('total bits:',numberOfBits)
+print('total bits:',numberOfBits(number))
